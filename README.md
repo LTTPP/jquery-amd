@@ -1,6 +1,6 @@
 # jquery-amd
 
-An AMD compatiable [jQuery](https://github.com/jquery/jquery), which address the problem that AMD do not have a inherent `window` with a `document`. A creation of a mockup of `window` with a `document` is needed and handled.
+An AMD adaptable [jQuery](https://github.com/jquery/jquery), which address the problem that AMD do not have a inherent `window` with a `document`. A creation of a mockup of `window` with a `document` is needed and handled.
 
 ## Installation
 

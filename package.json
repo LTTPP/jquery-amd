@@ -1,0 +1,19 @@
+{
+  "name": "jquery-amd",
+  "version": "1.0.0-beta.1",
+  "description": "An AMD adaptable jQuery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LTTPP/jquery-amd.git"
+  },
+  "keywords": [
+    "AMD",
+    "jQuery"
+  ],
+  "author": "Jianwei Liu <liujianwei.me@gmail.com> (https://liujianwei.tech/)",
+  "license": "MIT"
+}

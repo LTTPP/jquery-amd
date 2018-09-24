@@ -1,0 +1,5 @@
+## Version 1.0.0-beta.1
+
+2018/09/24 13:14:00
+
+ * An AMD adaptable [jQuery](https://github.com/jquery/jquery), which address the problem that AMD do not have a inherent `window` with a `document`.
