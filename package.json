@@ -1,6 +1,6 @@
 {
   "name": "jquery-amd",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.0-beta.2",
   "description": "An AMD adaptable jQuery",
   "main": "index.js",
   "scripts": {
