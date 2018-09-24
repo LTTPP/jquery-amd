@@ -32,7 +32,7 @@
 				}
 				return factory( w );
 			};
-	} else if(typeof define === 'function') { // AMD
+	} else if(typeof define === 'function' && define.amd) { // AMD
         define(['require', 'module'], function(require, module) {
             module.exports = function( w ) {
                 if ( !w.document ) {
