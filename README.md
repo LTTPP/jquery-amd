@@ -18,7 +18,7 @@ Follow the instruction of the environments you are using.
 
 ### Node.js
 
-```
+```JavaScript
 var jq = require('jquery-amd');
 var window = ... // use some window and dom mockup tool, like Noddom, jsdom etc.
 var $ = jq(window);
