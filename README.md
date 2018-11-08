@@ -20,7 +20,7 @@ Follow the instruction of the environments you are using.
 
 ```JavaScript
 var jq = require('jquery-amd');
-var window = ... // use some window and dom mockup tool, like Noddom, jsdom etc.
+var window = ... // use some window and dom mockup tool, like NDjs, jsdom etc.
 var $ = jq(window);
 ```
 
@@ -29,7 +29,7 @@ var $ = jq(window);
 ```JavaScript
 define(['jquery'], function(jq){
     ...
-    var window = ...; // use some window and dom mockup tool, like Noddom, jsdom etc.
+    var window = ...; // use some window and dom mockup tool, like NDjs, jsdom etc.
     var $ = jq(window);
     ...
 });
